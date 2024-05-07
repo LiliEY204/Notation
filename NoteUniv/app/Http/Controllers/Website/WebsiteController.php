@@ -10,6 +10,6 @@ class WebsiteController extends Controller
     //
 
     public function accueil(){
-        return view('');
+        return view('Website.accueil');
     }
 }

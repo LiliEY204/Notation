@@ -10,15 +10,15 @@
           <div class="owl-carousel owl-banner">
             <div class="item item-1">
               <div class="header-text">
-                <span class="category">Our Courses</span>
-                <h2>With Scholar Teachers, Everything Is Easier</h2>
-                <p>Scholar is free CSS template designed by TemplateMo for online educational related websites. This layout is based on the famous Bootstrap v5.3.0 framework.</p>
+                <span class="category">Universities</span>
+                <h2>With Note Uni, Everything Is Easier</h2>
+                <p>Note Uni is free online application for ranking TOGO universities</p>
                 <div class="buttons">
                   <div class="main-button">
-                    <a href="#">Request Demo</a>
+                    <a href="#">Join us</a>
                   </div>
                   <div class="icon-button">
-                    <a href="#"><i class="fa fa-play"></i> What's Scholar?</a>
+                    <a href="#"><i class="fa fa-play"></i> Discover Note Uni</a>
                   </div>
                 </div>
               </div>
@@ -27,10 +27,9 @@
               <div class="header-text">
                 <span class="category">Best Result</span>
                 <h2>Get the best result out of your effort</h2>
-                <p>You are allowed to use this template for any educational or commercial purpose. You are not allowed to re-distribute the template ZIP file on any other website.</p>
-                <div class="buttons">
+                 <div class="buttons">
                   <div class="main-button">
-                    <a href="#">Request Demo</a>
+                    <a href="#">Join us</a>
                   </div>
                   <div class="icon-button">
                     <a href="#"><i class="fa fa-play"></i> What's the best result?</a>
@@ -40,15 +39,15 @@
             </div>
             <div class="item item-3">
               <div class="header-text">
-                <span class="category">Online Learning</span>
-                <h2>Online Learning helps you save the time</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod temporious incididunt ut labore et dolore magna aliqua suspendisse.</p>
+                <span class="category">Online Ranking</span>
+                <h2>Online Ranking helps you save the time</h2>
+                <p></p>
                 <div class="buttons">
                   <div class="main-button">
-                    <a href="#">Request Demo</a>
+                    <a href="#">Join us</a>
                   </div>
                   <div class="icon-button">
-                    <a href="#"><i class="fa fa-play"></i> What's Online Course?</a>
+                    <a href="#"><i class="fa fa-play"></i> Discover Note Uni</a>
                   </div>
                 </div>
               </div>
@@ -68,8 +67,8 @@
               <img src="assets/images/service-01.png" alt="online degrees">
             </div>
             <div class="main-content">
-              <h4>Online Degrees</h4>
-              <p>Whenever you need free templates in HTML CSS, you just remember TemplateMo website.</p>
+              <h4>Online Ranking</h4>
+              <p>Every user can rank the universities in differents aspects on the website.</p>
               <div class="main-button">
                 <a href="#">Read More</a>
               </div>
@@ -82,8 +81,8 @@
               <img src="assets/images/service-02.png" alt="short courses">
             </div>
             <div class="main-content">
-              <h4>Short Courses</h4>
-              <p>You can browse free templates based on different tags such as digital marketing, etc.</p>
+              <h4>Description</h4>
+              <p>We have little description of every university.</p>
               <div class="main-button">
                 <a href="#">Read More</a>
               </div>
@@ -97,7 +96,7 @@
             </div>
             <div class="main-content">
               <h4>Web Experts</h4>
-              <p>You can start learning HTML CSS by modifying free templates from our website too.</p>
+              <p>You can start learning about differents universities our website too.</p>
               <div class="main-button">
                 <a href="#">Read More</a>
               </div>
@@ -140,7 +139,7 @@
             <div class="accordion-item">
               <h2 class="accordion-header" id="headingThree">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                  Why SCHOLAR is the best?
+                  Why Note Uni is the best?
                 </button>
               </h2>
               <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
